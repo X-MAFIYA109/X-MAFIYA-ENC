@@ -18,7 +18,7 @@
 
 * `pip install bs4`
 
-* `rm -rf 3K-SPECIAL`
+* `rm -rf X-MAFIYA-ENC`
 
 * `git clone https://github.com/X-MAFIYA109/X-MAFIYA-ENC`
 
